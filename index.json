@@ -1,0 +1,19 @@
+{
+    "schema": 1,
+    "author": "wildspick63",
+    "presets": [
+        {
+            "id": "minimalist-steam",
+            "name": "minimalist steam",
+            "description": "peak black sanity minimalism that is hell peak",
+            "version": "1.0.0",
+            "configVersion": 31,
+            "path": "presets/minimalist-steam",
+            "wallpaper": "presets/minimalist-steam/wallpaper.png",
+            "banner": "presets/minimalist-steam/banner.png",
+            "screenshots": [
+                "presets/minimalist-steam/screenshots/1-b2d5d6f7.png"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "name": "minimalist steam",
+    "author": "wildspick63",
+    "description": "peak black sanity minimalism that is hell peak",
+    "version": "1.0.0",
+    "configVersion": 31,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-b2d5d6f7.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-10-28",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.png",
+    "banner": "banner.png"
+}
